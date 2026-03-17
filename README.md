@@ -13,13 +13,6 @@ This project detects whether an email/message is spam or not using a Decision Tr
 ## Model Used
 - Decision Tree Classifier
 
-
-## Preprocessing Steps
-- Text cleaning
-- Tokenization
-- Removal of stopwords
-- Vectorization (e.g., CountVectorizer / TF-IDF)
-
 ## Evaluation Metric
 - Accuracy Score,Precision, Recall, and F1-score Calculation:
 
